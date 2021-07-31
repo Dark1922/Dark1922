@@ -2,7 +2,7 @@
 
 
 - 🌱 I'm studying at Rocktseat, Jdev Treinamento , AlgaWorks and Nélio Alves.
-- 👯 i'm currently learning HTML , CSS , JavaScript , Sql , React , Java, Spring, Angular.
+- 👯 i'm currently learning HTML , CSS , JavaScript , Sql , React , Java, Spring and Angular.
 - 💬 about me : University student in the last semester in Analysis and System Development, focused on learning more and more, and I really like this area.
 
  <div>
