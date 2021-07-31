@@ -21,10 +21,13 @@
  <img align="center" alt="Joao-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img align="center" alt="Joao-Angular" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png">
  
- <div>
- ## 
- </div>
-   
+  
+  
+</div>
+  
+  ##
+ 
+<div> 
 
   <a href = "mailto:jvdematos004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-victor-989242191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,4 +35,5 @@
 
  
 </div>
+
 
