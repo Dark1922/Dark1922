@@ -17,9 +17,9 @@
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Joao-Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
- <img align="center" alt="Joao-Spring" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
- <img align="center" alt="Joao-Angular" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png">
+  <img align="center" alt="Joao-Docker" height="32" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ <img align="center" alt="Joao-Spring" height="32" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+ <img align="center" alt="Joao-Angular" height="32" width="35" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png">
  
   
   
