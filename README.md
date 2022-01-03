@@ -1,10 +1,3 @@
- ## Hiii!  I'm João Victor Martins de Matos.                                                   
-
-
-- 🌱 I'm studying at Rocktseat, Jdev Treinamento , AlgaWorks and Nélio Alves.
-- 👯 i'm currently learning HTML , CSS , JavaScript , Sql , React , Java, Spring and Angular.
-- 💬 about me : University student in the last semester in Analysis and System Development, focused on learning more and more, and I really like this area.
-
  <div>
   <a href="https://github.com/Dark1922">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dark1922&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
